@@ -5,6 +5,8 @@
 
 Short python script to convert .PNG files to .JPG from one folder to another, recursively as new files are added.
 
+<img width="1115" height="628" alt="png_to_jpg_recursive_converter" src="https://github.com/user-attachments/assets/19a07c71-16ad-49f9-8dbe-b11f85658e5f" />
+
 ## Installation
 
 Make sure the following is installed:
@@ -17,11 +19,11 @@ git clone https://github.com/AbdielAlfonsoRinconCantu/png_to_jpg_recursive_conve
 ```
 
 ## Before using
-Edit `line 15` with the path of your input folder, edit `line 16` with the path of your output folder.
+Edit `line 14` with the path of your input folder, edit `line 15` with the path of your output folder.
 
 ```python
-input_folder = r'\\YOUR\FOLDER\PATH\HERE'
-output_folder = r'NEW_FOLDER'
+14  input_folder = r'\\YOUR\FOLDER\PATH\HERE'
+15  output_folder = r'NEW_FOLDER'
 ```
 
 ## Usage 
